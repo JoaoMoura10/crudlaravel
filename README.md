@@ -1,4 +1,4 @@
-# **PROJETO: hellowordlaravel**
+# **PROJETO: crudlaravel**
 Criando o primeiro repositório no Github 
 
 ## Desenvolvido por: João Vitor Moura
